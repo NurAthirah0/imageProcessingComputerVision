@@ -1,11 +1,11 @@
 from typing import final
 import streamlit as st
-#import cv2
+import cv2
 # To make things easier later, we're also importing numpy and pandas for
 # working with sample data.
 import numpy as np
 from PIL import Image
-#from streamlit_drawable_canvas import st_canvas
+from streamlit_drawable_canvas import st_canvas
 
 
 
